@@ -1,5 +1,5 @@
 # Application Scaffolding 
-This is a basic scaffolding for a Angular/Laravel app.
+This is a basic scaffolding for a Angular/Laravel application.
 
 # Installation Requirements
 In order to use this application scaffolding first ensure that the following software is installed :
