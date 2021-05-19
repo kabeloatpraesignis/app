@@ -4,14 +4,19 @@ This is a basic scaffolding for a Angular/Laravel app.
 # Installation Requirements
 In order to use this application scaffolding first ensure that the following software is installed :
     1. Node.js : https://nodejs.org/en/download/
+
     2. Git : https://git-scm.com/downloads (install git bash as well if your using a windows operating systems)
+
     3. Virtualbox : https://www.virtualbox.org/wiki/Downloads
+
     4. Vagrant : https://www.vagrantup.com/downloads
+
     5. Generate a ssh key 
 
 # Setup Instruction
 Please Note: Run all instructions in git bash if your using a windows operating systems
 1. Install Laravel Homestead
+
     Step 1: Open git bash then clone the Homestead repository by running the below command :
             
             git clone https://github.com/laravel/homestead.git ~/Homestead
