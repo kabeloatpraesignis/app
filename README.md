@@ -3,6 +3,7 @@ This is a basic scaffolding for a Angular/Laravel app.
 
 # Installation Requirements
 In order to use this application scaffolding first ensure that the following software is installed :
+
     1. Node.js : https://nodejs.org/en/download/
 
     2. Git : https://git-scm.com/downloads (install git bash as well if your using a windows operating systems)
